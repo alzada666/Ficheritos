@@ -1,4 +1,3 @@
-package salesianos.net.actividad4;
 
 import java.io.Serializable;
 
