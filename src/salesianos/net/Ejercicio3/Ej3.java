@@ -42,7 +42,7 @@ public class Ej3 {
 
             writer.println(); // línea en blanco
             writer.println("\n=== FIN DEL FICHERO ===");
-            writer.println("Firmado por: TU NOMBRE AQUI");
+            writer.println("Firmado por: Marcos Padron");
 
             System.out.println("Fusión completada correctamente en " + rutaFicheroFusionado);
 

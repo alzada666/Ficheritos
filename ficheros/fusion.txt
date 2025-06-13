@@ -1,10 +1,10 @@
 === INICIO DEL FICHERO FUSIONADO ===
 
 -- Contenido de texto1.txt --
-RERTHRTHDRTHRTDHDRHDRTHDRTHDTRHDRTHDRTH
+HOLA_BUENAS_A_TODOS_CRIATURITAS
 
 -- Contenido de texto2.txt --
 Hola, pibe.
 
 === FIN DEL FICHERO ===
-Firmado por: TU NOMBRE AQUI
+Firmado por: Marcos Padron

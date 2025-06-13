@@ -1,9 +1,10 @@
 {
   "java.project.sourcePaths": [
     "src/salesianos/net/ficheros/Ejercicio2",
+    "src/salesianos/net/actividad4",
     "src/salesianos/net/Ejercicio3",
     "src/salesianos/net/Ejercicio1",
-    "src/salesianos/net/actividad4"
+    "src/salesianos/net/Ejercicio2"
   ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]
