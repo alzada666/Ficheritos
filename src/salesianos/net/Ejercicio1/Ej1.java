@@ -1,4 +1,5 @@
-package Ejercicio1;
+package salesianos.net.Ejercicio1;
+
 import java.io.Console;
 import java.io.FileWriter;
 import java.io.IOException;

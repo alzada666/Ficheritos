@@ -1,3 +1,5 @@
+package salesianos.net.actividad4;
+
 import java.io.Serializable;
 
 public class Mesa implements Serializable {
